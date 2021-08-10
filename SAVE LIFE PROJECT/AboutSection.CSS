@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: red;
+  }
+  body {
+    background-color: rgb(33, 34, 34);
+  }
+  div {
+    background-color: lightgrey;
+    width:device-width, initial-scale=1.0;
+    border: 15px solid green;
+    padding: 20px;
+    margin: 20px;
+  }
+  p2 {
+    margin: 20px; 
+    text-indent: 20px;
+    color: red
+  }
+  h3 {
+    text-decoration-style: wavy;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  img {
+    width:200px;
+    height:300px;
+    display: flex;
+    justify-content: center;
+    image-resolution: 1000px;
+    align-items: center;
+    margin: 20px;
+  }
+  #contact {
+
+    color:red;
+  }
+  #name{
+    color: rgba(3, 29, 146, 0.801);
+  }
